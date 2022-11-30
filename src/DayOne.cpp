@@ -69,9 +69,10 @@ int ProblemTwo(std::vector<int> inventory) {
     }
     return result;
 }
-
+/*
 int main() {
     std::vector<int> inventory = toList("ElfInventory.txt");
     std::cout << ProblemOne(inventory) << std::endl;
     std::cout << ProblemTwo(inventory) << std::endl;
 }
+*/
