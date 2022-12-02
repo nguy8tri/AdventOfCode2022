@@ -1,8 +1,10 @@
 # AdventOfCode2022
 
-My Progress on Advent of Code 2022:
-- [X] Day 1
-- [X] Day 2
+Welcome to my Advent of Code 2022 Progress. Here, you can see my wonderfully long and complicated solutions!
+
+# My Progress on Advent of Code 2022:
+- [X] Day 1 | Rank: 94363
+- [X] Day 2 | Rank: 10138
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
