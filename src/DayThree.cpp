@@ -35,7 +35,7 @@ int ProblemSix(std::string rucksack) {
             }
         } 
     }
-    std::cout << result.size() << std::endl;
+    // std::cout << result.size() << std::endl;
     int sum = 0;
     for(char c : result) {
         // std::cout << c << " ";
@@ -45,7 +45,7 @@ int ProblemSix(std::string rucksack) {
             sum += c - 'A' + 27;
         }
     }
-    std::cout << std::endl;
+    // std::cout << std::endl;
     return sum;
 }
 
