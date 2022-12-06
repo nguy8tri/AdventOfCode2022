@@ -1,8 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <set>
-#include <vector>
+#include "DayThree.hpp"
 
 
 int ProblemSix(std::string rucksack) {
@@ -85,8 +81,9 @@ int ProblemFive(std::string rucksack) {
 }
 
 
-
+/*
 int main()  {
     std::cout << ProblemFive("Rucksack.txt") << std::endl;
     std::cout << ProblemSix("Rucksack.txt") << std::endl;
 }
+*/

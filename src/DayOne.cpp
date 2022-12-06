@@ -1,10 +1,4 @@
-
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <math.h>
-#include <vector>
-#include <bits/stdc++.h>
+#include "DayOne.hpp"
 
 
 int ParseNumber(std::string number) {

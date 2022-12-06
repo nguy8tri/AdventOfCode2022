@@ -1,7 +1,4 @@
-#include <vector>
-#include <iostream>
-#include <string>
-#include <fstream>
+#include "DayTwo.hpp"
 
 int Outcome(std::string strategy) {
     // std::cout << strategy << " ";
